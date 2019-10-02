@@ -17,4 +17,5 @@ A Python script for scraping questions from quora , used to mine data. User can 
 4. Webdrive download[used firefox] : https://www.seleniumhq.org/projects/webdriver/
 5. To get certain values of dataset user is required to enter his/her email in the script so that mining can take place as a logged in user.
  
-### Output example : Check repository iitjanswers.
+### Output example : 
+Check repository iitjanswers.xlsx.
