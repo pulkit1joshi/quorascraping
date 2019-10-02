@@ -1,5 +1,5 @@
 # Scraper: Scrap data from Quora
-A Python script for scraping questions from quora , used to mine data. Can be easily tuned according to ones need
+A Python script for scraping questions from quora , used to mine data. User can scrap data depending upon particular topic to be searched for. Can be easily tuned according to ones need.
 
 
 ### Fields Extracted are :
@@ -10,6 +10,11 @@ A Python script for scraping questions from quora , used to mine data. Can be ea
 4. FOLLOWS - Number of people following the Question
 5. ANSWERS - Number of answers
 
-### Requirements :
-
+### Libraries and tools :
+ Selenium
+ Beautifulsoup
+ Other basic ML Libraries
+ Webdrive download[used firefox] : https://www.seleniumhq.org/projects/webdriver/
  To get certain values of dataset user is required to enter his/her email in the script so that mining can take place as a logged in user.
+ 
+### Output example : Check repository iitjanswers.
