@@ -11,10 +11,10 @@ A Python script for scraping questions from quora , used to mine data. User can 
 5. ANSWERS - Number of answers
 
 ### Libraries and tools :
- Selenium
- Beautifulsoup
- Other basic ML Libraries
- Webdrive download[used firefox] : https://www.seleniumhq.org/projects/webdriver/
- To get certain values of dataset user is required to enter his/her email in the script so that mining can take place as a logged in user.
+1. Selenium
+2. Beautifulsoup
+3. Other basic ML Libraries
+4. Webdrive download[used firefox] : https://www.seleniumhq.org/projects/webdriver/
+5. To get certain values of dataset user is required to enter his/her email in the script so that mining can take place as a logged in user.
  
 ### Output example : Check repository iitjanswers.
